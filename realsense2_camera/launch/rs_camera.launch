@@ -70,6 +70,7 @@
   <arg name="stereo_module/gain/1"      default="16"/>
   <arg name="stereo_module/exposure/2"  default="1"/>
   <arg name="stereo_module/gain/2"      default="16"/>
+  <rosparam> /camera/stereo_module/emitter_enabled: 2</rosparam>
   
   
 
